@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GustavoNazarioPerez
+- 👀 I’m interested in machine learning
+- 🌱 I’m currently learning full stack
+- 💞️ I’m looking to collaborate on mobile development
+- 📫 How to reach me https://www.linkedin.com/in/gustavonazarioperez/
